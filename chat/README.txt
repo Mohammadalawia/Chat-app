@@ -1,8 +1,8 @@
-#A chat server and a client to chat with your friends and family
+#A chat server and a client to start chatting 
 
 how to run:-
 1-open cmd with the currect directory
-2- run the python file in cmd
+2- run the python file of server and client on the cmd
 
 
 
