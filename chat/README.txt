@@ -1,4 +1,4 @@
-A chat server and a client to chat with your friends and family
+#A chat server and a client to chat with your friends and family
 
 how to run:-
 1-open cmd with the currect directory
